@@ -41,32 +41,32 @@ export const config = {
       // 所在城市
       city: "常德",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://www.yuque.com/ran1364"
     }, 
-    {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+//     {
+//       name: "老婆1", 
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       openUrl: "https://www.yuque.com/ran1364"
+//     }, 
+//     {
+//       name: "老婆2",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       openUrl: "https://www.yuque.com/ran1364"
+//     }, 
+//     {
+//       name: "老婆3", 
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       openUrl: "https://www.yuque.com/ran1364"
+//     }, 
   ],
 
   /**
@@ -74,7 +74,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "	IqXgmBEG6KJVJBkAShhtT3ga1brJj9KNfYE--z5kuz0",
+  CALLBACK_TEMPLATE_ID: "IqXgmBEG6KJVJBkAShhtT3ga1brJj9KNfYE--z5kuz0",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
